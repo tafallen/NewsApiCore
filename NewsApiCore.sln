@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApiCore", "NewsApiCore\NewsApiCore.csproj", "{3E2C9B8B-E905-4B98-812E-AFC4A7B2A0DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApiCore.Tests", "NewsApiCore.Tests\NewsApiCore.Tests.csproj", "{CB5CBC5B-D9C4-458C-89C3-DA1157814E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E2C9B8B-E905-4B98-812E-AFC4A7B2A0DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2C9B8B-E905-4B98-812E-AFC4A7B2A0DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2C9B8B-E905-4B98-812E-AFC4A7B2A0DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2C9B8B-E905-4B98-812E-AFC4A7B2A0DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5CBC5B-D9C4-458C-89C3-DA1157814E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5CBC5B-D9C4-458C-89C3-DA1157814E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5CBC5B-D9C4-458C-89C3-DA1157814E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5CBC5B-D9C4-458C-89C3-DA1157814E20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F027AB-F212-4A11-ACD4-8C219A14ACCA}
+	EndGlobalSection
+EndGlobal
