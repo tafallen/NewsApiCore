@@ -1,7 +1,7 @@
 # NewsApiCore
 A port of the official News API client library to .NET Core (C#). 
 
-All that has been done is to recompile to target .Net Core v3.1 and add this note. All other content is as was in the original repo: []https://github.com/News-API-gh/News-API-csharp(https://github.com/News-API-gh/News-API-csharp). 
+All that has been done is to recompile to target .Net Core v3.1 and add this note. All other content is as was in the original repo: [https://github.com/News-API-gh/News-API-csharp](https://github.com/News-API-gh/News-API-csharp). 
 
 No support is supplied but you're welcome to suggest improvements, pull requests and point out things that are wrong with this code. However, I don't work for NewsAPI so I can't fix their internals or have any advance notice of changes they might make.
 
